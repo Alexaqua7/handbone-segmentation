@@ -32,7 +32,10 @@
   - 최종 예측은 **pixel-level classification**
 
 - **Submission Format**  
-  - 예측 결과는 **Run-Length Encoding (RLE)** 형식의 `.csv` 파일로 제출  
+  - 예측 결과는 **Run-Length Encoding (RLE)** 형식의 `.csv` 파일로 제출
+
+> 📏 **Evaluation Metric**: `DICE`
+<img width="1400" height="660" alt="image" src="https://github.com/user-attachments/assets/42d90aeb-314f-4997-981a-2f8c84486fdc" />
 
 ---
 
